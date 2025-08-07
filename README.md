@@ -18,8 +18,8 @@ To validate the performance of VIP-DECT, this section compares it with FBP (Bren
 
 ### Reconstruction Results Under Mouse Thoracic DECT Dataset
 
-![](D:\HuaweiMoveData\Users\肖瑶\Desktop\Group 418.png)
+![Fig. 7](https://github.com/ZiniChen/VIP-DECT/blob/main/fig%207.svg)
 
 ### Material Decomposition
 
-![](D:\HuaweiMoveData\Users\肖瑶\Desktop\Group 419.png)
+![Fig. 8](https://github.com/ZiniChen/VIP-DECT/blob/main/fig%208.svg)
