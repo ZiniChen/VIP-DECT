@@ -14,7 +14,7 @@ To validate the performance of VIP-DECT, this section compares it with FBP (Bren
 
 ### Reconstruction Results Under Head DECT Dataset
 
-![]()![Group 427](D:\HuaweiMoveData\Users\肖瑶\Desktop\Group 427.png)
+![Fig. 6](https://github.com/ZiniChen/VIP-DECT/blob/main/fig%206.svg)
 
 ### Reconstruction Results Under Mouse Thoracic DECT Dataset
 
